@@ -9,8 +9,8 @@ infrastructure. Then who can argue?
 **Ask forgiveness not permission. Subvert the system. And do it now.**
 
 If any of the Ruby fanboys currently managing your infrastructure asks what
-nix does, then just tell them its a web app that serves awesome cat gifs.
-They'll love it.
+nix does, then just tell them its a web app that serves awesome dog gifs.
+They'll lose all interest!
 
 Quick distract them with real cat gifs.
 
